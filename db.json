@@ -1,5 +1,5 @@
 {
-  "users": [
+  "appUsers": [
     {
       "id": 1,
       "username": "admin",
