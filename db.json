@@ -1,16 +1,419 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "fname": "Admin",
+      "lname": "Admin",
+      "role": "admin",
+      "roleDescription": "Admin",
+      "age": "30",
+      "email": "admin@admin.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 2,
+      "username": "driver1",
+      "password": "driver1",
+      "fname": "Driver",
+      "lname": "One",
+      "role": "driver",
+      "roleDescription": "Driver",
+      "age": "30",
+      "email": "driver1@driver.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 3,
+      "username": "driver2",
+      "password": "driver2",
+      "fname": "Driver",
+      "lname": "Two",
+      "role": "driver",
+      "roleDescription": "Driver",
+      "age": "30",
+      "email": "driver2@driver.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 4,
+      "username": "driver3",
+      "password": "driver3",
+      "fname": "Driver",
+      "lname": "Three",
+      "role": "driver",
+      "roleDescription": "Driver",
+      "age": "30",
+      "email": "driver3@driver.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 5,
+      "username": "driver4",
+      "password": "driver4",
+      "fname": "Driver",
+      "lname": "Four",
+      "role": "driver",
+      "roleDescription": "Driver",
+      "age": "30",
+      "email": "driver4@driver.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 6,
+      "username": "driver5",
+      "password": "driver5",
+      "fname": "Driver",
+      "lname": "Five",
+      "role": "driver",
+      "roleDescription": "Driver",
+      "age": "30",
+      "email": "driver5@driver.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 7,
+      "username": "supervisor1",
+      "password": "supervisor1",
+      "fname": "Supervisor",
+      "lname": "One",
+      "role": "supervisor",
+      "roleDescription": "Supervisor",
+      "age": "30",
+      "email": "supervisor1@supervisor.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 8,
+      "username": "supervisor2",
+      "password": "supervisor2",
+      "fname": "Supervisor",
+      "lname": "Two",
+      "role": "supervisor",
+      "roleDescription": "Supervisor",
+      "age": "30",
+      "email": "supervisor2@supervisor.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 9,
+      "username": "supervisor3",
+      "password": "supervisor3",
+      "fname": "Supervisor",
+      "lname": "Three",
+      "role": "supervisor",
+      "roleDescription": "Supervisor",
+      "age": "30",
+      "email": "supervisor3@supervisor.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 10,
+      "username": "supervisor4",
+      "password": "supervisor4",
+      "fname": "Supervisor",
+      "lname": "Four",
+      "role": "supervisor",
+      "roleDescription": "Supervisor",
+      "age": "30",
+      "email": "supervisor4@supervisor.com",
+      "mobile": "123456789"
+    },
+    {
+      "id": 11,
+      "username": "supervisor5",
+      "password": "supervisor51",
+      "fname": "Supervisor",
+      "lname": "Five",
+      "role": "supervisor",
+      "roleDescription": "Supervisor",
+      "age": "30",
+      "email": "supervisor5@supervisor.com",
+      "mobile": "123456789"
     }
   ],
-  "comments" : [
+  "vehicles": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "vin": "test123456",
+      "regNo": "DUBAI A 10000",
+      "make": "BMW",
+      "model": "X6",
+      "color": "Blue",
+      "regYear": "2020",
+      "status": "Idle",
+      "driverDescription": "",
+      "driverId": null,
+      "lastKnownLocationId": 3,
+      "lastKnownLocationDescription": "Sharjah"
+    },
+    {
+      "id": 2,
+      "vin": "test123457",
+      "regNo": "DUBAI A 20000",
+      "make": "BMW",
+      "model": "X7",
+      "color": "Black",
+      "regYear": "2021",
+      "status": "Idle",
+      "driverDescription": "",
+      "driverId": null,
+      "lastKnownLocationId": 2,
+      "lastKnownLocationDescription": "Abu Dhabi"
+    },
+    {
+      "id": 3,
+      "vin": "test123458",
+      "regNo": "DUBAI A 30000",
+      "make": "Audi",
+      "model": "A1",
+      "color": "Red",
+      "regYear": "2015",
+      "status": "Idle",
+      "driverDescription": "",
+      "driverId": null,
+      "lastKnownLocationId": 2,
+      "lastKnownLocationDescription": "Abu Dhabi"
+    },
+    {
+      "id": 4,
+      "vin": "test123459",
+      "regNo": "DUBAI A 40000",
+      "make": "Benz",
+      "model": "S350",
+      "color": "Silver",
+      "regYear": "2021",
+      "status": "Idle",
+      "driverDescription": "",
+      "driverId": null,
+      "lastKnownLocationId": 3,
+      "lastKnownLocationDescription": "Sharjah"
+    },
+    {
+      "id": 5,
+      "vin": "test123450",
+      "regNo": "DUBAI A 50000",
+      "make": "Toyota",
+      "model": "Corola",
+      "color": "White",
+      "regYear": "2019",
+      "status": "Idle",
+      "driverDescription": "",
+      "driverId": "",
+      "lastKnownLocationId": 3,
+      "lastKnownLocationDescription": "Sharjah"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "description": "Dubai",
+      "emirate": "Dubai",
+      "assignedSupervisorId": 7,
+      "assignedSupervisorName": "Supervisor One"
+    },
+    {
+      "id": 2,
+      "description": "Abu Dhabi",
+      "emirate": "Abu Dhabi",
+      "assignedSupervisorId": 8,
+      "assignedSupervisorName": "Supervisor Two"
+    },
+    {
+      "id": 3,
+      "description": "Sharjah",
+      "emirate": "Sharjah",
+      "assignedSupervisorId": 9,
+      "assignedSupervisorName": "Supervisor Two"
+    },
+    {
+      "id": 4,
+      "description": "Al Ain",
+      "emirate": "Abu Dhabi",
+      "assignedSupervisorId": 10,
+      "assignedSupervisorName": "Supervisor Four"
+    },
+    {
+      "id": 5,
+      "description": "Ajman",
+      "emirate": "Ajman",
+      "assignedSupervisorId": 11,
+      "assignedSupervisorName": "Supervisor Five"
+    }
+  ],
+  "driverStatus": [
+    {
+      "id": 1,
+      "driverId": 2,
+      "status": "Idle",
+      "vehicleId": null,
+      "vehicleDescription": "",
+      "tripNumber": 3
+    },
+    {
+      "id": 2,
+      "driverId": 3,
+      "status": "Idle",
+      "vehicleId": null,
+      "vehicleDescription": "",
+      "tripNumber": 1
+    },
+    {
+      "id": 3,
+      "driverId": 6,
+      "status": "Idle",
+      "vehicleId": null,
+      "vehicleDescription": "",
+      "tripNumber": 1
+    },
+    {
+      "id": 4,
+      "driverId": 4,
+      "status": "Idle",
+      "vehicleId": null,
+      "vehicleDescription": "",
+      "tripNumber": 1
+    },
+    {
+      "id": 5,
+      "driverId": 5,
+      "status": "Idle",
+      "vehicleId": null,
+      "vehicleDescription": "",
+      "tripNumber": 1
+    }
+  ],
+  "tripHistory": [
+    {
+      "vehicleId": 1,
+      "vehicleDescription": "BMW X6",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 1,
+      "locationDescription": "Dubai",
+      "time": "2021-11-08T09:04:03.320Z",
+      "tripStatus": 1,
+      "tripStatusDescription": "Start",
+      "tripNumber": 1,
+      "id": 1
+    },
+    {
+      "vehicleId": 1,
+      "vehicleDescription": "BMW X6",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 2,
+      "locationDescription": "Abu Dhabi",
+      "time": "2021-11-08T09:04:34.567Z",
+      "tripStatus": 2,
+      "tripStatusDescription": "Moving",
+      "tripNumber": 1,
+      "id": 2
+    },
+    {
+      "vehicleId": 1,
+      "vehicleDescription": "BMW X6",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 3,
+      "locationDescription": "Sharjah",
+      "time": "2021-11-08T09:05:46.382Z",
+      "tripStatus": 2,
+      "tripStatusDescription": "Moving",
+      "tripNumber": 1,
+      "id": 3
+    },
+    {
+      "vehicleId": 1,
+      "vehicleDescription": "BMW X6",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 3,
+      "locationDescription": "Sharjah",
+      "time": "2021-11-08T10:03:49.487Z",
+      "tripStatus": 3,
+      "tripStatusDescription": "End",
+      "tripNumber": 1,
+      "id": 4
+    },
+    {
+      "vehicleId": 3,
+      "vehicleDescription": "Audi A1",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 2,
+      "locationDescription": "Abu Dhabi",
+      "time": "2021-11-08T10:04:58.010Z",
+      "tripStatus": 1,
+      "tripStatusDescription": "Start",
+      "tripNumber": 2,
+      "id": 5
+    },
+    {
+      "vehicleId": 3,
+      "vehicleDescription": "Audi A1",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 1,
+      "locationDescription": "Dubai",
+      "time": "2021-11-08T10:05:10.534Z",
+      "tripStatus": 2,
+      "tripNumber": 2,
+      "tripStatusDescription": "Moving",
+      "id": 6
+    },
+    {
+      "vehicleId": 3,
+      "vehicleDescription": "Audi A1",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 4,
+      "locationDescription": "Al Ain",
+      "time": "2021-11-08T10:06:19.411Z",
+      "tripStatus": 2,
+      "tripNumber": 2,
+      "tripStatusDescription": "Moving",
+      "id": 7
+    },
+    {
+      "vehicleId": 3,
+      "vehicleDescription": "Audi A1",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 1,
+      "locationDescription": "Dubai",
+      "time": "2021-11-08T10:06:28.916Z",
+      "tripStatus": 2,
+      "tripNumber": 2,
+      "tripStatusDescription": "Moving",
+      "id": 8
+    },
+    {
+      "vehicleId": 3,
+      "vehicleDescription": "Audi A1",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 2,
+      "locationDescription": "Abu Dhabi",
+      "time": "2021-11-08T10:06:43.335Z",
+      "tripStatus": 2,
+      "tripNumber": 2,
+      "tripStatusDescription": "Moving",
+      "id": 9
+    },
+    {
+      "vehicleId": 3,
+      "vehicleDescription": "Audi A1",
+      "driverId": 2,
+      "driverName": "Driver One",
+      "locationId": 2,
+      "locationDescription": "Abu Dhabi",
+      "time": "2021-11-08T10:07:16.010Z",
+      "tripStatus": 3,
+      "tripStatusDescription": "End",
+      "tripNumber": 2,
+      "id": 10
     }
   ]
 }
