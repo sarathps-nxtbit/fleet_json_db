@@ -415,5 +415,715 @@
       "tripNumber": 2,
       "id": 10
     }
+  ],
+  "jobCards": [
+    {
+      "id": 1,
+      "jobCarNo": "DX-21-001",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928628",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "material delivered"
+    },
+    {
+      "id": 2,
+      "jobCarNo": "DX-21-001",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928628",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "sent material request"
+    },
+    {
+      "id": 3,
+      "jobCarNo": "DX-21-001",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928628",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "sent material request"
+    },
+    {
+      "id": 4,
+      "jobCarNo": "DX-21-001",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928628",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "sent material request"
+    },
+    {
+      "id": 5,
+      "jobCarNo": "DX-21-001",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928628",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "sent material request"
+    },
+    {
+      "id": 6,
+      "jobCarNo": "DX-21-001",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928628",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "sent material request"
+    },
+    {
+      "id": 7,
+      "jobCarNo": "DX-21-007",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "plateNo": "UAE-928674",
+      "departmentId": 1,
+      "departmentName": "Purchase",
+      "chaseNo": "123474ybd7",
+      "date": "28-10-2021",
+      "currentKm": "22000",
+      "Note": "filetr not working",
+      "jobCardItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos"
+        }
+      ],
+      "status": "sent material request"
+    }
+  ],
+  "materialRequest": [
+    {
+      "id": 1,
+      "jobCardId": 1,
+      "requestNo": "MRQ-21-001",
+      "date": "28-10-2021",
+      "jobCard": {
+        "id": 1,
+        "jobCarNo": "DX-21-001",
+        "serviceTypeId": 1,
+        "serviceTypeName": "Natural",
+        "plateNo": "UAE-928628",
+        "departmentId": 1,
+        "departmentName": "Purchase",
+        "chaseNo": "123474ybd7",
+        "date": "28-10-2021",
+        "currentKm": "22000",
+        "Note": "filetr not working",
+        "jobCardItems": [
+          {
+            "id": 1,
+            "itemId": 1,
+            "itemName": "Fule Filter",
+            "partNo": "4PK3002",
+            "quantity": 1,
+            "unit": "Nos"
+          },
+          {
+            "id": 2,
+            "itemId": 2,
+            "itemName": "Air Filter",
+            "partNo": "65K302",
+            "quantity": 1,
+            "unit": "Nos"
+          }
+        ]
+      },
+      "Note": "all items are available",
+      "status": "request delivered",
+      "materailRequestItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos",
+          "availabilityStatus": "delivered"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos",
+          "availabilityStatus": "delivered"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "jobCardId": 7,
+      "requestNo": "MRQ-21-002",
+      "date": "28-10-2021",
+      "jobCard": {
+        "id": 7,
+        "jobCarNo": "DX-21-007",
+        "serviceTypeId": 1,
+        "serviceTypeName": "Natural",
+        "plateNo": "UAE-928674",
+        "departmentId": 1,
+        "departmentName": "Purchase",
+        "chaseNo": "123474ybd7",
+        "date": "28-10-2021",
+        "currentKm": "22000",
+        "Note": "filetr not working",
+        "jobCardItems": [
+          {
+            "id": 1,
+            "itemId": 1,
+            "itemName": "Fule Filter",
+            "partNo": "4PK3002",
+            "quantity": 1,
+            "unit": "Nos"
+          },
+          {
+            "id": 2,
+            "itemId": 2,
+            "itemName": "Air Filter",
+            "partNo": "65K302",
+            "quantity": 1,
+            "unit": "Nos"
+          }
+        ]
+      },
+      "Note": "sent quotation",
+      "status": "in progress",
+      "materailRequestItems": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "itemName": "Fule Filter",
+          "partNo": "4PK3002",
+          "quantity": 1,
+          "unit": "Nos",
+          "availabilityStatus": "in progress"
+        },
+        {
+          "id": 2,
+          "itemId": 2,
+          "itemName": "Air Filter",
+          "partNo": "65K302",
+          "quantity": 1,
+          "unit": "Nos",
+          "availabilityStatus": "in progress"
+        }
+      ]
+    }
+  ],
+  "serviceTypes": [
+    {
+      "id": 1,
+      "name": "Natural"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical"
+    }
+  ],
+  "itemStock": [
+    {
+      "id": 1,
+      "name": "Fule Filter",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "unit": "Nos",
+      "currentStockQty": 50
+    },
+    {
+      "id": 2,
+      "name": "Air Filter",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "unit": "Nos",
+      "currentStockQty": 50
+    },
+    {
+      "id": 3,
+      "name": "Oil",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "unit": "Nos",
+      "currentStockQty": 50
+    },
+    {
+      "id": 4,
+      "name": "Oil Filter",
+      "serviceTypeId": 1,
+      "serviceTypeName": "Natural",
+      "unit": "Nos",
+      "currentStockQty": 50
+    },
+    {
+      "id": 5,
+      "name": "000222344",
+      "serviceTypeName": "Mechanical",
+      "serviceTypeId": 2,
+      "unit": "Nos",
+      "currentStockQty": 50
+    },
+    {
+      "id": 6,
+      "name": "4pk 78",
+      "serviceTypeId": 2,
+      "serviceTypeName": "Mechanical",
+      "unit": "Nos",
+      "currentStockQty": 50
+    },
+    {
+      "id": 7,
+      "name": "63321466",
+      "serviceTypeName": "Mechanical",
+      "serviceTypeId": 2,
+      "unit": "Nos",
+      "currentStockQty": 50
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Purchase"
+    },
+    {
+      "id": 2,
+      "name": "Accounts"
+    }
+  ],
+  "rfq": [
+    {
+      "id": 1,
+      "rfqNo": "RFQ-21-001",
+      "date": "28-10-2021",
+      "subject": "Request For Quotation",
+      "status": "Send mail to suppliers",
+      "assignedPerson": "Wahid",
+      "itemList": [
+        {
+          "partNo": "4PK3002",
+          "quantity": 45,
+          "unit": "Nos",
+          "lastDate": "22-11-2021",
+          "suppliers": [
+            {
+              "supplierId": 2,
+              "supplierName": "Lulu"
+            },
+            {
+              "id": 3,
+              "supplierName": "Golden Pivot"
+            }
+          ]
+        },
+        {
+          "partNo": "3543TG",
+          "quantity": 100,
+          "unit": "Nos",
+          "lastDate": "22-11-2021",
+          "suppliers": [
+            {
+              "supplierId": 2,
+              "supplierName": "Lulu"
+            },
+            {
+              "id": 3,
+              "supplierName": "Golden Pivot"
+            },
+            {
+              "id": 1,
+              "supplierName": "Locus"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "supplierQuotation": [
+    {
+      "id": 1,
+      "quotationNo": "QT-21-001",
+      "rfqNo": "RFQ-21-001",
+      "supplierId": 1,
+      "assignedPerson": "Wahid",
+      "note": "will be delivered on time",
+      "supplier": {
+        "id": 1,
+        "name": "Locus",
+        "email": "demo@locus.com",
+        "address": "sample address",
+        "mobile": "123456789"
+      },
+      "items": [
+        {
+          "partNo": "3543TG",
+          "quantity": 100,
+          "unit": "Nos",
+          "unitPrice": 450,
+          "totalAmount": 45000
+        }
+      ],
+      "grandTotal": 45000,
+      "submittedDate": "22-11-2021"
+    },
+    {
+      "id": 2,
+      "supplierId": 2,
+      "quotationNo": "QT-21-002",
+      "rfqNo": "RFQ-21-001",
+      "assignedPerson": "Wahid",
+      "note": "-",
+      "supplier": {
+        "id": 2,
+        "name": "Lulu",
+        "email": "demo@lulu.com",
+        "address": "sample address",
+        "mobile": "123456789"
+      },
+      "items": [
+        {
+          "partNo": "3543TG",
+          "quantity": 100,
+          "unit": "Nos",
+          "unitPrice": 350,
+          "totalAmount": 35000
+        },
+        {
+          "partNo": "4PK3002",
+          "quantity": 45,
+          "unit": "Nos",
+          "unitPrice": 250,
+          "totalAmount": 11250
+        }
+      ],
+      "grandTotal": 46250,
+      "submittedDate": "22-11-2021"
+    },
+    {
+      "id": 3,
+      "supplierId": 3,
+      "quotationNo": "QT-21-003",
+      "rfqNo": "RFQ-21-001",
+      "assignedPerson": "Wahid",
+      "note": "1 month payment term",
+      "supplier": {
+        "id": 3,
+        "name": "Golden Pivot",
+        "email": "demo@goldenpivot.com",
+        "address": "sample address",
+        "mobile": "123456789"
+      },
+      "items": [
+        {
+          "partNo": "3543TG",
+          "quantity": 100,
+          "unit": "Nos",
+          "unitPrice": 400,
+          "totalAmount": 40000
+        },
+        {
+          "partNo": "4PK3002",
+          "quantity": 45,
+          "unit": "Nos",
+          "unitPrice": 300,
+          "totalAmount": 13500
+        }
+      ],
+      "grandTotal": 53500,
+      "submittedDate": "22-11-2021"
+    }
+  ],
+  "comparativeSheet": [
+    {
+      "id": 1,
+      "sheetNo": "CS-21-001",
+      "rfqNo": "RFQ-21-001",
+      "assignedPerson": "Wahid",
+      "date": "28-10-2021",
+      "itemQuotes": [
+        {
+          "partNo": "3543TG",
+          "quantity": 100,
+          "unit": "Nos",
+          "description": "Belt",
+          "supplierQuotes": [
+            {
+              "supplierId": 3,
+              "supplierName": "Golden Pivot",
+              "unitPrice": 400,
+              "totalAmount": 40000
+            },
+            {
+              "supplierId": 2,
+              "supplierName": "Lulu",
+              "unitPrice": 350,
+              "totalAmount": 35000
+            },
+            {
+              "supplierId": 1,
+              "supplierName": "Locus",
+              "unitPrice": 450,
+              "totalAmount": 45000
+            }
+          ]
+        },
+        {
+          "partNo": "4PK3002",
+          "quantity": 45,
+          "unit": "Nos",
+          "description": "Motor Winding",
+          "supplierQuotes": [
+            {
+              "supplierId": 3,
+              "supplierName": "Golden Pivot",
+              "unitPrice": 300,
+              "totalAmount": 13500
+            },
+            {
+              "supplierId": 2,
+              "supplierName": "Lulu",
+              "unitPrice": 250,
+              "totalAmount": 11250
+            },
+            {
+              "supplierId": 1,
+              "supplierName": "Locus",
+              "unitPrice": "N/A",
+              "totalAmount": "N/A"
+            }
+          ]
+        }
+      ],
+      "supplierTotalQuotes": [
+        {
+          "supplierId": 1,
+          "grandTotal": 53500
+        },
+        {
+          "supplierId": 2,
+          "grandTotal": 46250
+        },
+        {
+          "supplierId": 3,
+          "grandTotal": 45000
+        }
+      ]
+    }
+  ],
+  "materialOrder": [
+    {
+      "id": 1,
+      "orderNo": "MO-21-001",
+      "supplierName": "Lulu",
+      "rfqNo": "RFQ-21-001",
+      "assignedPerson": "Wahid",
+      "submittedDate": "28-10-2021",
+      "note": "-",
+      "grandTotal": 46250,
+      "items": [
+        {
+          "partNo": "3543TG",
+          "quantity": 100,
+          "unit": "Nos",
+          "unitPrice": 350,
+          "totalAmount": 35000,
+          "description": "Motor Winding",
+          "orderPurpose": "Yamaha Dhareja"
+        },
+        {
+          "partNo": "4PK3002",
+          "quantity": 45,
+          "unit": "Nos",
+          "unitPrice": 250,
+          "totalAmount": 11250,
+          "description": "Belt",
+          "orderPurpose": "Agriculture Section"
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Locus",
+      "email": "demo@locus.com",
+      "address": "sample address",
+      "mobile": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "Lulu",
+      "email": "demo@lulu.com",
+      "address": "sample address",
+      "mobile": "123456789"
+    },
+    {
+      "id": 3,
+      "name": "Golden Pivot",
+      "email": "demo@goldenpivot.com",
+      "address": "sample address",
+      "mobile": "123456789"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "data": "New Job acrd added",
+      "userId": 1
+    },
+    {
+      "id": 1,
+      "data": "New material rewuest added",
+      "userId": 1
+    }
   ]
 }
